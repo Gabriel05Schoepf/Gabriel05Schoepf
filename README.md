@@ -9,8 +9,8 @@
 
 ## Habilidades
 - 💻 Linguagens: C, C#, JavaScript, HTML, CSS.
-- 🛠️ Frameworks: .net 8, Node.js.
-- 🖥️ Desktop: Desenvolvimento de aplicativos desktop.
+- 🛠️ Frameworks: .Net 8, Node.js.
+- 🖥️ Desktop: Desenvolvimento de aplicativos Desktop.
 - 🗄️ Banco de Dados: MySQL. SQl Server, Mongo DB
 - 🔧 Ferramentas: Git, VSCode, Visual Studio Community
 
