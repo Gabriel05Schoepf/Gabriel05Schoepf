@@ -28,7 +28,7 @@
 
 ## Idiomas
 - 🇧🇷 Português (nativo)
-- 🇬🇧 Inglês (intermediário - cursando)
+- 🇺🇸 Inglês (intermediário - cursando)
 
 ## Contato
 - 📧 Email: [GabrielSchoepf.Dev@gmail.com](mailto:GabrielSchoepf.Dev@gmail.com)
