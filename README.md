@@ -1,4 +1,4 @@
-# 👋 Olá, Mundo! Eu sou [Gabriel Schoepf] 🚀
+# 👋 Olá, Mundo! Eu sou Gabriel Schoepf 🚀
 
 ## Sobre Mim
 - 👨‍💻 Desenvolvedor apaixonado e entusiasta da tecnologia.
