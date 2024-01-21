@@ -12,7 +12,7 @@
 - 🛠️ Frameworks: .net 8, Node.js.
 - 🖥️ Desktop: Desenvolvimento de aplicativos desktop.
 - 🗄️ Banco de Dados: MySQL. SQl Server, Mongo DB
-- 🔧 Ferramentas: Git, VSCode, visual studio community
+- 🔧 Ferramentas: Git, VSCode, Visual Studio Community
 
 <!-- ## Projetos em Destaque
 - 🚀 [Projeto 1](link-para-o-projeto-1): Descrição curta.
