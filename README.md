@@ -31,7 +31,7 @@
 - 🇺🇸 Inglês (intermediário - cursando)
 
 ## Contato
-- 📧 Email: [GabrielSchoepf.Dev@gmail.com](mailto:contato.gabrielschoepf@gmail.com
+- 📧 Email: [contato.gabrielschoepf@gmail.com](mailto:contato.gabrielschoepf@gmail.com
 )
 
 
