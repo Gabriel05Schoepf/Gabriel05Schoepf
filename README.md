@@ -31,8 +31,7 @@
 - 🇺🇸 Inglês (intermediário - cursando)
 
 ## Contato
-- 📧 Email: [contato.gabrielschoepf@gmail.com]
-)
+- 📧 Email: contato.gabrielschoepf@gmail.com
 
 
 ## Canal no YouTube
