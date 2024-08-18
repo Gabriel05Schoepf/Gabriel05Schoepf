@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 👨‍💻 Desenvolvedor apaixonado e entusiasta da tecnologia.
 - 📚 Formação técnica pelo Senac RS.
-- 🎓 Cursando Desenvolvimento Back-end na Anhanguera.
+- 🎓 Cursando analise e desenvolvimento de sistemas no Senac EAD.
 - 🚀 Atualmente trabalhando na Viação União Santa Cruz.
 - 🌱 Aprimorando minhas habilidades em desenvolvimento web e Desktop.
 
